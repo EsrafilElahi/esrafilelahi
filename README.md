@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-my name in Esrafil :confused:
+My Name In Esrafil :confused:
 
-front-end reactjs 📙
+Front-End Reactjs Dev 📙
 
 
 <!--
