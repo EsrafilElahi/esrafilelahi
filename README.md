@@ -4,7 +4,7 @@ My Name In Esrafil :confused:
 
 Front-End Reactjs Dev 📙
 
-🔭 I’m currently working at avaaz marketing corp
+I’m currently working at avaaz marketing corp 🔭
 
 
 <!--
