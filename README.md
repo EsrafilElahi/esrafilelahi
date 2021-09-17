@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My Name In Esrafil :confused:
+My Name Is Esrafil :confused:
 
 Front-End Reactjs Dev 📙
 
-I’m currently working at avaaz marketing corp 🔭
+I’m Currently Working At Avaaz Marketing Corp 🔭
 
 
 <!--
