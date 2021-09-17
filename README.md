@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-My Name Is Esrafil :confused:
+My Name In Esrafil :confused:
 
 Front-End Reactjs Dev 📙
 
+<<<<<<< HEAD
 felan felan for revert and
 
 I’m Currently Working At Avaaz Marketing Corp 🔭
+=======
+I’m Currently Working At Avaaz Marketing Corp 🔭
+>>>>>>> parent of 34d2aff... modify camelcase words
 
 
 <!--
