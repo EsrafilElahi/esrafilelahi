@@ -2,7 +2,7 @@
 
 My Name Is Esrafil :confused:
 
-Front-End Reactjs Dev 💻
+Frontend Reactjs Developer 💻
 
 I’m Currently Working At Avaaz Marketing Corp In Tehran 🏢
 
