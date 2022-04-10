@@ -2,7 +2,7 @@
 
 My Name Is Esrafil :confused:
 
-Frontend Reactjs | Nextjs | React-native | TypeScript Developer 💻
+Front-end Reactjs | Nextjs | React-native | TypeScript Developer 💻
 
 I’m Currently Working At Avaaz Marketing Corp In Tehran 🏢
 
