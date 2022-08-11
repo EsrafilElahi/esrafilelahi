@@ -6,6 +6,8 @@ Frontend Reactjs | Nextjs Developer 💻
 
 I’m Currently Working At Avaaz Marketing Corp In Tehran 🏢
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=esrafilelahi&show_icons=true)
+
 
 <!--
 **EsrafilElahi/esrafilelahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
