@@ -17,7 +17,7 @@ I’m Currently Working At Avaaz Marketing Corp In Tehran 🏢
 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   
-  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-007ACC?style=flat-square&logo=javascript&logoColor=yellow" />
   
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   
