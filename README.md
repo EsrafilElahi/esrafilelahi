@@ -1,10 +1,14 @@
-### Hi There 👋
+# 💫 About Me :
 
-My Name Is Esrafil :confused:
+Hi There My Name Is Esrafil
 
-Frontend Reactjs | Nextjs | Typescript Developer 💻
+a frontend developer and master's student in software engineering field,
+committed to work and inter-team coordination and structured, capable of
+solving bugs and challenges and managing tasks, who loves to learn, improve and teach others 💻
 
-I’m Currently Working At Avaaz Marketing Corp In Tehran 🏢
+I’m Currently Learning Backend Nodejs, Express, MongoDB, ...
+
+📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/esrafil-elahi/) for more details about me
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=esrafilelahi&show_icons=true)
 
