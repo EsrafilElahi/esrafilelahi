@@ -1,6 +1,6 @@
 # 💫 About Me :
 
-Hi There My Name Is Esrafil
+Hi there my name is esrafil
 
 a frontend developer and master's student in software engineering field,
 committed to work and inter-team coordination and structured, capable of
