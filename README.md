@@ -4,13 +4,15 @@ Hi There My Name Is Esrafil
 
 a frontend developer and master's student in software engineering field,
 committed to work and inter-team coordination and structured, capable of
-solving bugs and challenges and managing tasks, who loves to learn, improve and teach others 💻
+solving bugs and challenges and managing tasks, who loves to learn, improve and teach others
 
-I’m Currently Learning Backend Nodejs, Express, MongoDB, ...
-
+💻 I’m Currently Learning Backend Nodejs, Express, MongoDB, ...
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/esrafil-elahi/) for more details about me
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=esrafilelahi&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=esrafilelahi&show_icons=true)<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=esrafilelahi&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=esrafilelahi&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
