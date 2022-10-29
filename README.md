@@ -6,7 +6,7 @@ a frontend developer and master's student in software engineering field,
 committed to work and inter-team coordination and structured, capable of
 solving bugs and challenges and managing tasks, who loves to learn, improve and teach others
 
-💻 I’m Currently Learning Backend Nodejs, Express, MongoDB, ... <br/>
+💻  I’m Currently Learning Backend Nodejs, Express, MongoDB, ... <br/>
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/esrafil-elahi/) for more details about me
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=esrafilelahi&show_icons=true)<br/>
