@@ -8,6 +8,7 @@ solving bugs and challenges and managing tasks, who loves to learn, improve and 
 
 💻  I’m Currently Learning Backend Nodejs, Express, MongoDB, ... <br/>
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/esrafil-elahi/) for more details about me
+![Alt text](https://iconduck.com/icons/13114/linkedin-original "a title")
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=esrafilelahi&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=esrafilelahi&theme=buefy&hide_border=false)<br/>
