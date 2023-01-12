@@ -27,7 +27,7 @@ I am a Frontend developer, finishing my master's degree in software engineering.
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![gitlab](https://img.shields.io/badge/GitLab-violet?style=for-the-badge&logo=gitlab&logoColor=orange)
+![gitlab](https://img.shields.io/badge/GitLab-purple?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![jwt](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
