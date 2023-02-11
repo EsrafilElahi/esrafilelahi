@@ -11,8 +11,6 @@ I am a Frontend developer, finishing my master's degree in software engineering.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=esrafilelahi&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=esrafilelahi&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-test
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
