@@ -1,13 +1,13 @@
 # 💫 About Me :
 
 Hi there my name is esrafil 
-    
+
 I am a Frontend developer, finishing my master's degree in software engineering. I am committed, structured, excellent at managing tasks, and great at inter-team coordination. I welcome new challenges and love solving problems and bugs. I love to learn, improve, and teach others.
 
 💻  I’m Currently Learning Backend Nodejs, Express, MongoDB, ... <br/>
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/esrafil-elahi/) for more details about me
- 
-   
+
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=esrafilelahi&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=esrafilelahi&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=esrafilelahi&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -38,3 +38,4 @@ I am a Frontend developer, finishing my master's degree in software engineering.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![pwa](	https://img.shields.io/badge/pwa-43853D?style=for-the-badge&logo=pwa&logoColor=white)
 
+  
