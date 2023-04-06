@@ -1,6 +1,6 @@
 # 💫 About Me :
 
-Hi there my name is esrafil 
+Hi there my name is esrafil
 
 I am a Frontend developer, finishing my master's degree in software engineering. I am committed, structured, excellent at managing tasks, and great at inter-team coordination. I welcome new challenges and love solving problems and bugs. I love to learn, improve, and teach others.
   
