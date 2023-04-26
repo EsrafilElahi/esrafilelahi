@@ -1,5 +1,5 @@
-# 💫 About Me :
- 
+# 💫 About Me : 
+  
 Hi there my name is esrafil 
   
 I am a Frontend developer, finishing my master's degree in software engineering. I am committed, structured, excellent at managing tasks, and great at inter-team coordination. I welcome new challenges and love solving problems and bugs. I love to learn, improve, and teach others.
@@ -28,7 +28,7 @@ I am a Frontend developer, finishing my master's degree in software engineering.
 ![material ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![gitlab](https://img.shields.io/badge/GitLab-500050?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
