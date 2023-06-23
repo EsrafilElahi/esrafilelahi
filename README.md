@@ -27,6 +27,7 @@ I am a frontend developer, finishing my master's degree in software engineering.
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![material ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![webpack](	https://img.shields.io/badge/webpack-007ACC?style=for-the-badge&logo=webpack&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -40,6 +41,7 @@ I am a frontend developer, finishing my master's degree in software engineering.
 ![Yarn](https://img.shields.io/badge/yarn-007ACC?style=for-the-badge&logo=yarn&logoColor=white)
 ![React Query](https://img.shields.io/badge/react_query-CB3837?style=for-the-badge&logo=reactquery&logoColor=white)
 ![nginx](	https://img.shields.io/badge/nginx-43853D?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 
 
