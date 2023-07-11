@@ -38,7 +38,7 @@ my code font : APL2741
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![jwt](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/trello-%0081CB.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-007ACC.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-007ACC?style=for-the-badge&logo=yarn&logoColor=white)
 ![React Query](https://img.shields.io/badge/react_query-CB3837?style=for-the-badge&logo=reactquery&logoColor=white)
