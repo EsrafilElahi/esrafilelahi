@@ -41,7 +41,8 @@ my code font : APL2741
 ![React Query](https://img.shields.io/badge/react_query-CB3837?style=for-the-badge&logo=reactquery&logoColor=white)
 ![nginx](	https://img.shields.io/badge/nginx-43853D?style=for-the-badge&logo=nginx&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-E44C30?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Lirary](https://img.shields.io/badge/ReactTestingLirary-CB3837?style=for-the-badge&logo=reacttestinglibrary&logoColor=white)
+![React Testing Lirary](https://img.shields.io/badge/React_Testing_Lirary-CB3837?style=for-the-badge&logo=testing-library&logoColor=white)
+![cypress](https://img.shields.io/badge/Cypress-404D59?style=for-the-badge)
 
 
 
