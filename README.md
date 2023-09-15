@@ -17,12 +17,10 @@ my code font : APL2741
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![nodejs](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![mysql](https://img.shields.io/badge/Mysql-4EA94B?style=for-the-badge&logo=mysql&logoColor=white)
-![postgresql](https://img.shields.io/badge/postgresql-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/Mysql-F29111?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
 ![sequelize](https://img.shields.io/badge/sequelize-4EA94B?style=for-the-badge&logo=sequelize&logoColor=white)
 ![prisma](https://img.shields.io/badge/prisma-4EA94B?style=for-the-badge&logo=prisma&logoColor=white)
-
 ![expressjs](https://img.shields.io/badge/Expressjs-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%230A0FFF.svg?style=for-the-badge&logo=Netlify&logoColor=white)
