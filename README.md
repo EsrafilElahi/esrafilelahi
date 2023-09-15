@@ -19,6 +19,7 @@ my code font : APL2741
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/Mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
+![mongoose](https://img.shields.io/badge/mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white)
 ![prisma](https://img.shields.io/badge/prisma-404D59?style=for-the-badge&logo=prisma&logoColor=white)
 ![sequelize](https://img.shields.io/badge/sequelize-007ACC?style=for-the-badge&logo=sequelize&logoColor=white)
 ![expressjs](https://img.shields.io/badge/Expressjs-404D59?style=for-the-badge&logo=express&logoColor=white)
