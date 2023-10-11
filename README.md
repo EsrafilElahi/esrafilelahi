@@ -1,6 +1,6 @@
 # 💫 About Me :
  
-I am a frontend developer, finishing my master's degree in software engineering. I am committed, structured, excellent at managing tasks, and great at inter-team coordination. I welcome new challenges and love solving problems and bugs. I love to learn, improve, and teach others.<br/> 
+As a dedicated and adaptable skillled frontend engineer, I'm currently pursuing my master's degree in software engineering. With a strong commitment to excellence, I thrive in fostering inter-team coordination. Challenges excite me, and I have a passion for solving complex problems and debugging issues to create seamless user experiences.<br/> 
 my code font : APL2741
  
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/esrafil-elahi/) for more details about me
