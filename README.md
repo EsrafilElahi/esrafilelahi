@@ -4,7 +4,7 @@ I am a dedicated and adaptable frontend engineer with over 4 years of experience
 my code font : APL2741 <br/>
 in vscode settings font-family name : APL2741 Unicode
  
-📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/esrafil-elahi/) for more details about me
+📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/esrafil-elahi/) for more details about me 
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=esrafilelahi&show_icons=true)<br/>
