@@ -32,7 +32,7 @@ in vscode settings font-family name : APL2741 Unicode
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![material ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![chakra ui](https://img.shields.io/badge/chakra_UI-4EA94B?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![ant design](https://img.shields.io/badge/Ant_Design-white?style=for-the-badge&logo=ant-design&logoColor=red)
+![ant design](https://img.shields.io/badge/Ant_Design-gray?style=for-the-badge&logo=ant-design&logoColor=blue)
 
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![webpack](	https://img.shields.io/badge/webpack-007ACC?style=for-the-badge&logo=webpack&logoColor=white)
