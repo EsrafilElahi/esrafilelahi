@@ -26,7 +26,8 @@ in vscode settings font-family name : APL2741 Unicode
 ![prisma](https://img.shields.io/badge/prisma-404D59?style=for-the-badge&logo=prisma&logoColor=white)
 ![sequelize](https://img.shields.io/badge/sequelize-007ACC?style=for-the-badge&logo=sequelize&logoColor=white)
 ![expressjs](https://img.shields.io/badge/Expressjs-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Nest JS](https://img.shields.io/badge/nestjs?style=for-the-badge&logo=nest.js&logoColor=red)
+![NestJS](https://img.shields.io/badge/Nestjs?style=for-the-badge&logo=nest.js&logoColor=white)
+
 ![pwa](	https://img.shields.io/badge/pwa-43853D?style=for-the-badge&logo=pwa&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![material ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
