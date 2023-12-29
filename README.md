@@ -29,13 +29,14 @@ in vscode settings font-family name : APL2741 Unicode
 ![nestjs](https://img.shields.io/badge/Nestjs-black?style=for-the-badge&logo=nestjs&logoColor=red)
 ![TypeORM](https://img.shields.io/badge/TypeORM-gray?style=for-the-badge&logo=TypeORM&logoColor=red)
 
-![pwa](	https://img.shields.io/badge/pwa-43853D?style=for-the-badge&logo=pwa&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![material ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![chakra ui](https://img.shields.io/badge/chakra_UI-4EA94B?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![ant design](https://img.shields.io/badge/Ant_Design-gray?style=for-the-badge&logo=ant-design&logoColor=blue)
-
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+![pwa](	https://img.shields.io/badge/pwa-43853D?style=for-the-badge&logo=pwa&logoColor=white)
 ![webpack](	https://img.shields.io/badge/webpack-007ACC?style=for-the-badge&logo=webpack&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
