@@ -1,9 +1,8 @@
 # 💫 About Me :
  
 I am a dedicated and adaptable frontend engineer with over 4 years of experience. I am committed to delivering high-quality work, and I am skilled at structuring projects and coordinating with other teams. always eager to take on new challenges and solve problems, and I am passionate about learning, improving, and sharing my knowledge with others.<br/>
-my code font : APL2741 <br/>  
-in vscode settings font-family name : APL2741 Unicode 
-   
+my code font : APL2741 Unicode <br/>
+
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/esrafil-elahi/) for more details about me 
 
 
@@ -28,7 +27,7 @@ in vscode settings font-family name : APL2741 Unicode
 ![expressjs](https://img.shields.io/badge/Expressjs-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![nestjs](https://img.shields.io/badge/Nestjs-black?style=for-the-badge&logo=nestjs&logoColor=red)
 ![TypeORM](https://img.shields.io/badge/TypeORM-gray?style=for-the-badge&logo=TypeORM&logoColor=red)
-![Graphql](https://img.shields.io/badge/Graphql-CC6699?style=for-the-badge&logo=Graphql&logoColor=red)
+![Graphql](https://img.shields.io/badge/Graphql-black?style=for-the-badge&logo=Graphql&logoColor=red)
 
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![material ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
