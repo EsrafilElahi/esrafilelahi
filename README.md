@@ -28,7 +28,7 @@ in vscode settings font-family name : APL2741 Unicode
 ![expressjs](https://img.shields.io/badge/Expressjs-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![nestjs](https://img.shields.io/badge/Nestjs-black?style=for-the-badge&logo=nestjs&logoColor=red)
 ![TypeORM](https://img.shields.io/badge/TypeORM-gray?style=for-the-badge&logo=TypeORM&logoColor=red)
-![Graphql](https://img.shields.io/badge/Graphql-gray?style=for-the-badge&logo=Graphql&logoColor=red)
+![Graphql](https://img.shields.io/badge/Graphql-CC6699?style=for-the-badge&logo=Graphql&logoColor=red)
 
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![material ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
