@@ -29,7 +29,7 @@ my code font : APL2741 Unicode <br/>
 ![Graphql](https://img.shields.io/badge/Graphql-black?style=for-the-badge&logo=Graphql&logoColor=red)
 
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![material ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-05122A?style=for-the-badge&logo=mui&logoColor=007FFF)&nbsp;
 ![chakra ui](https://img.shields.io/badge/chakra_UI-4EA94B?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![ant design](https://img.shields.io/badge/Ant_Design-gray?style=for-the-badge&logo=ant-design&logoColor=blue)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
