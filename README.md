@@ -34,6 +34,7 @@ my code font : APL2741 Unicode <br/>
 ![ant design](https://img.shields.io/badge/Ant_Design-gray?style=for-the-badge&logo=ant-design&logoColor=blue)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Atomic Design](https://img.shields.io/badge/atomic-design-CC6699?style=for-the-badge&logo=Atomic-Design&logoColor=pink)
 
 ![pwa](	https://img.shields.io/badge/pwa-43853D?style=for-the-badge&logo=pwa&logoColor=white)
 ![webpack](	https://img.shields.io/badge/webpack-007ACC?style=for-the-badge&logo=webpack&logoColor=white)
