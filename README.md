@@ -25,7 +25,7 @@ my code font : APL2741 Unicode <br/>
 ![sequelize](https://img.shields.io/badge/sequelize-007ACC?style=for-the-badge&logo=sequelize&logoColor=white)
 ![expressjs](https://img.shields.io/badge/Expressjs-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![nestjs](https://img.shields.io/badge/Nestjs-black?style=for-the-badge&logo=nestjs&logoColor=red)
-![TypeORM](https://img.shields.io/badge/TypeORM-gray?style=for-the-badge&logo=TypeORM&logoColor=red)
+![typeorm](https://img.shields.io/badge/typeorm-gray?style=for-the-badge&logo=typeorm&logoColor=red)
 ![Graphql](https://img.shields.io/badge/Graphql-black?style=for-the-badge&logo=Graphql&logoColor=red)
 
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
