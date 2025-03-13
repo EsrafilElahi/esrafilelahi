@@ -48,7 +48,6 @@ my code font : APL2741 Unicode <br/>
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F7DF1E?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-007ACC.svg?style=for-the-badge&logo=trello&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-007ACC?style=for-the-badge&logo=yarn&logoColor=white)
 ![React Query](https://img.shields.io/badge/react_query-CB3837?style=for-the-badge&logo=reactquery&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-E44C30?style=for-the-badge&logo=jest&logoColor=white)
