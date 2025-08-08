@@ -41,6 +41,7 @@ my code font : APL2741 Unicode <br/>
 ![monorepo](https://img.shields.io/badge/monorepo-00758F?style=for-the-badge&logo=Monorepo&logoColor=blue)
 ![NX](https://img.shields.io/badge/nx-%230db7ed?style=for-the-badge&logo=NX&logoColor=blue)
 ![Turborepo](https://img.shields.io/badge/Turborepo-007ACC?style=for-the-badge&logo=Turborepo&logoColor=violet)
+![microfrontend](https://img.shields.io/badge/microfrontend-gray?style=for-the-badge&logo=microfrontend&logoColor=red)
 
 ![pwa](	https://img.shields.io/badge/pwa-43853D?style=for-the-badge&logo=pwa&logoColor=white)
 ![webpack](	https://img.shields.io/badge/webpack-007ACC?style=for-the-badge&logo=webpack&logoColor=white)
