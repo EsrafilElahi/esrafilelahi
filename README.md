@@ -18,7 +18,7 @@ my code font : APL2741 Unicode <br/>
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![vuex](https://img.shields.io/badge/Vuex-4EA94B?style=for-the-badge&logo=vuex&logoColor=white)
 ![zustand](https://img.shields.io/badge/zustand-500050?style=for-the-badge&logo=zustand&logoColor=orange)
-![pinia](https://img.shields.io/badge/pinia-500050?style=for-the-badge&logo=pinia&logoColor=orange)
+![pinia](https://img.shields.io/badge/pinia-F7DF1E?style=for-the-badge&logo=pinia&logoColor=orange)
 ![nodejs](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/Mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
