@@ -40,7 +40,7 @@ my code font : APL2741 Unicode <br/>
 
 ![monorepo](https://img.shields.io/badge/monorepo-CC6699?style=for-the-badge&logo=Monorepo&logoColor=blue)
 ![NX](https://img.shields.io/badge/nx-CC6699?style=for-the-badge&logo=NX&logoColor=blue)
-![Turborepo](https://img.shields.io/badge/Turborepo-CC6699?style=for-the-badge&logo=Turborepo&logoColor=violet)
+![Turborepo](https://img.shields.io/badge/Turborepo-007ACC?style=for-the-badge&logo=Turborepo&logoColor=violet)
 
 ![pwa](	https://img.shields.io/badge/pwa-43853D?style=for-the-badge&logo=pwa&logoColor=white)
 ![webpack](	https://img.shields.io/badge/webpack-007ACC?style=for-the-badge&logo=webpack&logoColor=white)
