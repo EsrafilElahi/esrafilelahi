@@ -38,8 +38,8 @@ my code font : APL2741 Unicode <br/>
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Atomic Design](https://img.shields.io/badge/atomic-design-CC6699?style=for-the-badge&logo=Atomic-Design&logoColor=pink)
 
-![monorepo](https://img.shields.io/badge/monorepo-CC6699?style=for-the-badge&logo=Monorepo&logoColor=blue)
-![NX](https://img.shields.io/badge/nx-CC6699?style=for-the-badge&logo=NX&logoColor=blue)
+![monorepo](https://img.shields.io/badge/monorepo-00758F?style=for-the-badge&logo=Monorepo&logoColor=blue)
+![NX](https://img.shields.io/badge/nx-%230db7ed?style=for-the-badge&logo=NX&logoColor=blue)
 ![Turborepo](https://img.shields.io/badge/Turborepo-007ACC?style=for-the-badge&logo=Turborepo&logoColor=violet)
 
 ![pwa](	https://img.shields.io/badge/pwa-43853D?style=for-the-badge&logo=pwa&logoColor=white)
