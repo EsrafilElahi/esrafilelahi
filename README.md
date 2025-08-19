@@ -35,6 +35,7 @@ my code font : APL2741 Unicode <br/>
 ![chakra ui](https://img.shields.io/badge/chakra_UI-4EA94B?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![ant design](https://img.shields.io/badge/Ant_Design-gray?style=for-the-badge&logo=ant-design&logoColor=blue)
 ![primevue](https://img.shields.io/badge/primevue-38B2AC?style=for-the-badge&logo=primevue&logoColor=blue)
+![vuetify](	https://img.shields.io/badge/vuetify-007ACC?style=for-the-badge&logo=vuetify&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Atomic Design](https://img.shields.io/badge/atomic-design-CC6699?style=for-the-badge&logo=Atomic-Design&logoColor=pink)
