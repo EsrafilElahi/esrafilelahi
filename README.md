@@ -61,6 +61,7 @@ my code font : APL2741 Unicode <br/>
 ![Yarn](https://img.shields.io/badge/yarn-007ACC?style=for-the-badge&logo=yarn&logoColor=white)
 ![React Query](https://img.shields.io/badge/react_query-CB3837?style=for-the-badge&logo=reactquery&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-E44C30?style=for-the-badge&logo=jest&logoColor=white)
+![vitest](https://img.shields.io/badge/vitest-F7DF1E?style=for-the-badge&logo=vitest&logoColor=green)
 ![React Testing Lirary](https://img.shields.io/badge/React_Testing_Lirary-CB3837?style=for-the-badge&logo=testing-library&logoColor=white)
 ![cypress](https://img.shields.io/badge/Cypress-404D59?style=for-the-badge&logo=cypress&logoColor=white)
 ![mapbox](https://img.shields.io/badge/Mapbox-100000?style=for-the-badge&logo=mapbox&logoColor=white)
