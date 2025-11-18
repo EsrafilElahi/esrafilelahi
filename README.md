@@ -69,6 +69,7 @@ my code font : APL2741 Unicode <br/>
 ![websocket](https://img.shields.io/badge/websocket-F7DF1E?style=for-the-badge&logo=websocket&logoColor=white)
 ![vim](https://img.shields.io/badge/vim-grey?style=for-the-badge&logo=vim&logoColor=green)
 ![Axios](https://img.shields.io/badge/axios-blue?style=for-the-badge&logo=axios&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-red?style=for-the-badge&logo=Chart.js&logoColor=red)
 
 
 
