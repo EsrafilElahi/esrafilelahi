@@ -1,6 +1,6 @@
 # 💫 About Me : 
 
-I am a dedicated and adaptable frontend engineer with over 7 years of experience. I am committed to delivering high-quality work, and I am skilled at structuring projects and coordinating with other teams. always eager to take on new challenges and solve problems, and I am passionate about learning, improving, and sharing my knowledge with others.<br/> 
+I am a dedicated and adaptable frontend engineer with over 7 years of experience. I focus on delivering high-quality work and building well-structured, scalable applications. I collaborate effectively with cross-functional teams and enjoy tackling new challenges and solving complex problems. I’m always eager to learn, grow, and share my knowledge with others.<br/> 
 my code font : APL2741 Unicode <br/>   
    
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/esrafil-elahi/) for more details about me 
