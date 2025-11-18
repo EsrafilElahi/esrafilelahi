@@ -67,7 +67,7 @@ my code font : APL2741 Unicode <br/>
 ![mapbox](https://img.shields.io/badge/Mapbox-100000?style=for-the-badge&logo=mapbox&logoColor=white)
 ![websocket](https://img.shields.io/badge/websocket-F7DF1E?style=for-the-badge&logo=websocket&logoColor=white)
 ![vim](https://img.shields.io/badge/vim-grey?style=for-the-badge&logo=vim&logoColor=green)
-![Axios](https://img.shields.io/badge/axios-blue?style=for-the-badge&logo=vim&logoColor=blue)
+![Axios](https://img.shields.io/badge/axios-blue?style=for-the-badge&logo=vim&logoColor=white)
 
 
 
