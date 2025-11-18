@@ -70,8 +70,9 @@ my code font : APL2741 Unicode <br/>
 ![vim](https://img.shields.io/badge/vim-grey?style=for-the-badge&logo=vim&logoColor=green)
 ![Axios](https://img.shields.io/badge/axios-blue?style=for-the-badge&logo=axios&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-red?style=for-the-badge&logo=Chart.js&logoColor=red)
-![eslint](https://img.shields.io/badge/eslint-red?style=for-the-badge&logo=eslint&logoColor=red)
+![eslint](https://img.shields.io/badge/eslint-007ACC?style=for-the-badge&logo=eslint&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-323330?style=for-the-badge&logo=prettier&logoColor=pink)
+![husky](https://img.shields.io/badge/husky-F7DF1E?style=for-the-badge&logo=husky&logoColor=green)
 
 
 
